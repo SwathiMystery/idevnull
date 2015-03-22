@@ -1,0 +1,52 @@
+
+url: https://swathimystery.github.io
+baseurl: /idevnull/
+
+# Site settings
+title: iDevNull
+email: swatzdev@gmail.com
+description: "We make things magical and happen"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 26beef
+  secondary: 18b4e7
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Swathi Venkatachala
+  pic: 1
+  position: Software Engineer and DevOps Specialist
+  social:
+    - title: twitter
+      url: http://twitter.com/idevnull  
+    - title: github
+      url: http://github.com/swathimystery
+    - title: globe
+      url: http://femgeekz.blogspot.com
+
+
+mail:
+    - title: envelope
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+    - title: twitter
+      url: http://twitter.com/idevnull
+    - title: linkedin
+      url: http://in.linkedin.com/in/swathimystery
+    - title: google-plus
+      url: https://plus.google.com/u/0/+SwathiVenkatachala
+    - title: github
+      url: http://github.com/swathimystery
+    - title: stack-overflow
+      url: http://stackoverflow.com/users/2248792/swathi    
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Bangalore, India
+
+# Build settings
+markdown: kramdown
+permalink: pretty
